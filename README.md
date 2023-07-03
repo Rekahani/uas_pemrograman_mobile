@@ -19,3 +19,11 @@
 
 
 ![1.png](/gambar/1.png) <br>
+
+### Output Program
+
+![2.png](/gambar/2.png) <br>
+
+#### Tampilan saat opsi di klik
+
+![3.png](/gambar/3.png) <br>
